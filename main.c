@@ -27,8 +27,22 @@ int main()
          }
         if(a==2)
         {
-          
-        }
+            int qu;
+            char x;
+            printf("shuruquchudejine: \n");
+            scanf("%d",&qu);
+            if(qian>=qu)
+            {
+               qian -= qu;
+                 printf("quchuchenggong,dianjihuichejixu");
+                 scanf("%c",&x);
+                 scanf("%c",&x);
+            }
+            else
+            {
+                printf("yuebuzhu\n");
+                scanf("%c",&x);
+ }
          if(a == 3)
          {
             
