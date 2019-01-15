@@ -15,9 +15,16 @@ int main()
           printf("shurugongnengbianhao\n");
           scanf("%d",&a);
         if(a==1)
-        {
-            
-        }
+        { 
+            int cun;
+             char x;
+             printf("shurucunrudejine:\n");
+             scanf("%d",&cun);
+             qian += cun;
+             printf("cunruchenggong");
+             scanf("%c",&x);
+              scanf("%c",&x);
+         }
         if(a==2)
         {
           
