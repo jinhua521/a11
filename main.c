@@ -54,7 +54,9 @@ int main()
          } 
          if(a == 4)
          {
-            
+             printf("chenxujieshu\n");
+             break;
+
          }
 
      }
