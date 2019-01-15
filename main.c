@@ -45,7 +45,12 @@ int main()
  }
          if(a == 3)
          {
-            
+            char x;
+             printf("dangqianyuewei : %d\n",qian);
+             printf("dianjihuichejixu\n");
+             scanf("%c",&x);
+             scanf("%c",&x);
+
          } 
          if(a == 4)
          {
